@@ -351,7 +351,7 @@ admin.html
   </footer>
 </body>
 </html>
-
+~~~
 ## OUTPUT:
 
 ![alt text](<Screenshot 2025-10-07 201446-1.png>)
